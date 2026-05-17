@@ -1,5 +1,7 @@
 # Ahoj, ja som Dominika! 👋
 
+🪪[...in English](README.md)
+
 Som **Financial Risk & Data Analytics Specialist** s matematickým backgroundom (FMFI UK) a vášňou pre transformáciu surových dát na strategické insighty. V súčasnosti pôsobím popri práci v oblasti finančného riadenia rizík a Solvency II aj ako **AI Champion** a správca Power BI Premium workspaceov.
 
 Aktuálne sa intenzívne posúvam smerom k **Data Science** a budujem si portfólio projektov, v ktorých spájam pokročilú analytiku s reálnym spoločenským a biznisovým dopadom.
