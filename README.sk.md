@@ -21,19 +21,16 @@ Aktuálne sa intenzívne posúvam smerom k **Data Science** a budujem si portfó
 * **Popis:** Komplexná analýza dôchodkových štatistík zo Sociálnej poisťovne. Projekt pokrýva kompletný dátový cyklus od automatizovaného sťahovania dát cez ich transformáciu v Pythone až po finálny auditovaný Power BI report.
 * **Tech Stack:** Python, Power BI, Audit Logging.
 
-#### 🧱 [lego_portfolio_analytics](ODKAZ_NA_TVOJ_PROJEKT_2) *(Pripravuje sa)*
+#### 🧱 [lego_portfolio_analytics](https://github.com/DomiBal/lego-portfolio-analysis.git) *(Pripravuje sa)*
 * **Popis:** Migrácia flat-file Excel databázy (zbierka 125 setov) do relačnej databázy (SQL) prepojená s Python API (Rebrickable/Brickset) na sledovanie trhovej hodnoty, analýzu návatnosti investícií (ROI) a predikciu budúcej ceny setov po EOL.
 * **Tech Stack:** SQL (PostgreSQL/SQLite), Python (API, Scikit-learn), Power BI.
 
-#### 🦓 [zebra_education_analytics](ODKAZ_NA_TVOJ_PROJEKT_4) *(Pripravuje sa)*
-* **Popis:** Dátová analýza faktorov ovplyvňujúcich znevýhodnenie vo vzdelávaní detí z marginalizovaných komunít. Projekt využíva verejné socio-demografické dáta (ŠÚ SR, Atlas rómskych komunít) na identifikáciu mikro-regiónov s najvyššou mierou rizika predčasného ukončenia školskej dochádzky. Cieľom je poskytnúť dátovú oporu pre rozvoj aktivít na podporu vzdelávania a motivácie mládeže.
+#### 🦓 [zebra_education_analytics](ODKAZ_NA_TVOJ_PROJEKT_4) *(V pláne)*
+* **Popis:** Dátová analýza faktorov ovplyvňujúcich znevýhodnenie vo vzdelávaní detí z marginalizovaných komunít.
 * **Tech Stack:** Python (Scikit-learn - Klasifikácia, Geopandas), Power BI (GIS mapping).
 
-#### 🏠 [housing_affordability_stresstest](ODKAZ_NA_TVOJ_PROJEKT_3) *(Pripravuje sa)*
-* **Popis:** Makroekonomický model dostupnosti bývania na Slovensku vychádzajúci z mojej expertízy z NBS. Projekt spája dáta o mzdách, cenách nehnuteľností a úrokových sadzbách, modeluje DSTI index a simuluje dopad stresových scenárov ECB na slovenské domácnosti.
-* **Tech Stack:** SQL (Window functions), Python (Time Series Forecasting - ARIMA/Prophet), Power BI.
-
-#### 📖 [books_database_and_something_else](ODKAZ_NA_TVOJ_PROJEKT_3) *(Pripravuje sa)*
+#### 🏠 [housing_affordability_stresstest](ODKAZ_NA_TVOJ_PROJEKT_3) *(V pláne)*
+#### 📖 [books_database_and_something_else](ODKAZ_NA_TVOJ_PROJEKT_3) *(V pláne)*
 
 ---
 
