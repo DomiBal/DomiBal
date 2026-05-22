@@ -21,19 +21,16 @@ I am actively evolving into **Data Science**, building a portfolio of projects t
 * **Description:** A comprehensive analysis of pension statistics from the Slovak Social Insurance Agency. The project covers the full data lifecycle: automated data ingestion, Python-based transformation, and an audited Power BI report.
 * **Tech Stack:** Python, Power BI, Audit Logging.
 
-#### 🧱 [lego_portfolio_analytics](ODKAZ_NA_TVOJ_PROJEKT_2) *(In Progress)*
+#### 🧱 [lego_portfolio_analytics](https://github.com/DomiBal/lego-portfolio-analysis.git) *(In Progress)*
 * **Description:** Migrating a flat-file Excel database of a 125-set LEGO collection into a relational SQL database. Integrated with Python APIs (Rebrickable/Brickset) to track market value, analyze return on investment (ROI), and predict future prices post-EOL (End of Life).
 * **Tech Stack:** SQL (PostgreSQL/SQLite), Python (API, Scikit-learn), Power BI.
 
-#### 🦓 [zebra_education_analytics](ODKAZ_NA_TVOJ_PROJEKT_4) *(In Progress)*
-* **Description:** Data-driven analysis of factors impacting educational disadvantage in marginalized communities. Utilizing public socio-demographic datasets (Statistical Office of the SR, Atlas of Roma Communities) to identify micro-regions at risk of early school leaving, providing data support for educational support and youth motivation activities.
+#### 🦓 [zebra_education_analytics](ODKAZ_NA_TVOJ_PROJEKT_4) *(Planned)*
+* **Description:** Data-driven analysis of factors impacting educational disadvantage in marginalized communities.
 * **Tech Stack:** Python (Scikit-learn - Classification, Geopandas), Power BI (GIS mapping).
 
-#### 🏠 [housing_affordability_stresstest](ODKAZ_NA_TVOJ_PROJEKT_3) *(In Progress)*
-* **Description:** A macroeconomic model of housing affordability in Slovakia, leveraging my core expertise from the National Bank of Slovakia (NBS). The project combines wage, real estate, and ECB interest rate data to model the DSTI index and simulate stress test scenarios on Slovak households.
-* **Tech Stack:** SQL (Window functions), Python (Time Series Forecasting - ARIMA/Prophet), Power BI.
-
-#### 📖 [book_something](ODKAZ_NA_TVOJ_PROJEKT_5) *(In Progress)*
+#### 🏠 [housing_affordability_stresstest](ODKAZ_NA_TVOJ_PROJEKT_3) *(Planned)*
+#### 📖 [book_something](ODKAZ_NA_TVOJ_PROJEKT_5) *(Planned)*
 
 ---
 
